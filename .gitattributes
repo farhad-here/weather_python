@@ -1,0 +1,4 @@
+*.md linguist-documentation
+*.json linguist-vendored
+*.yml linguist-vendored
+*.py linguist-language=Python
