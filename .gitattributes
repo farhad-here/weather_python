@@ -1,5 +1,0 @@
-*.py linguist-detectable=true
-*.txt linguist-vendored
-*.md linguist-vendored
-*.png linguist-vendored
-*.jpg linguist-vendored
