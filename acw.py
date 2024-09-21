@@ -3,7 +3,7 @@ from tkinter import *
 from requests import *
 # =====================================
 address = "http://dataservice.accuweather.com"
-api_key = "4tYKucaDrKO25mj3viVDoxfQxgr2gNz3"
+api_key = "YOUR_APIKEY"
 address_w = "http://dataservice.accuweather.com"
 # =====================================
 window = Tk()
