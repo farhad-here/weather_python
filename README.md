@@ -34,4 +34,3 @@ copy paste this in the code then use it.
 - Requests
 - python
 - tkinter
-- pyinstaller
