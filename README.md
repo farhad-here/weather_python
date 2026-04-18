@@ -1,4 +1,4 @@
-# It is an old weather app i wrote it for my university project.
+# An old weather broadcast application.
 
 <p> It is exe file you can pull and use it</p>
 <p>The code is inside it and you can use the code</p>
